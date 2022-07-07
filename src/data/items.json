@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ice Cubes",
+        "price": 4.99,
+        "imgURL": "/images/icecubes.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Rubiks Cube",
+        "price": 12.99,
+        "imgURL": "/images/cube.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Spatula Set",
+        "price": 39.99,
+        "imgURL": "/images/spatulas.jpeg"
+    },
+    {
+        "id": 1,
+        "name": "Tiger",
+        "price": 1299.99,
+        "imgURL": "/images/tiger.jpeg"
+    }
+]
