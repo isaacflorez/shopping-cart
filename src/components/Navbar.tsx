@@ -36,7 +36,7 @@ export function Navbar(){
                 transform: "translate(25%, 25%)",
               }}
             >
-              {/* {cartQuantity} */}
+              3
             </div>
           </Button>
         </Container>
